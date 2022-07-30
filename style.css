@@ -1,0 +1,42 @@
+.heading {
+    font-size: 23px;
+    width: 100%;
+    margin: 0px;
+    box-shadow: 5px 10px 10px blue;
+}
+
+.note {
+    font-size: 20px;
+    color: black;
+    border-radius: 5px;
+    background-color: lightblue;
+}
+
+.footer {
+    position: fixed;
+    color: aliceblue;
+    text-align: center;
+    background-color: rgb(215, 158, 158);
+    width: 100%;
+    bottom: 0;
+    line-height: 3;
+}
+
+canvas {
+    border: 4px dashed purple;
+    border-radius: 20px;
+    box-shadow: 5px 5px 5px pink;
+}
+
+.heading2 {
+    font-size: 28px;
+    width: 100%;
+    margin: 0px;
+    box-shadow: 18px 18px 18px rgb(0, 221, 255);
+}
+
+#font_size{
+    background-color: purple;
+    font-size: 20px;
+    color: white;
+}
